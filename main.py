@@ -3,5 +3,9 @@
  
 print ("Life is short, you need Python !")
 
-# this is a comment line
 
+a = 10
+
+b = 20
+c = a + b
+print("The value of c is  ", c)
