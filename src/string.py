@@ -9,7 +9,7 @@ print ("var2[1:5]: ", var2[1:5]) #   切片 加索引
 def my_strcat(str1, str2):
 	return (str1+str2)
 
-a = '我'
+a = '我'  #
 b = 'ab'
 ab = '我ab'
 
