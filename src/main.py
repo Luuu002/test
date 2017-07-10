@@ -21,3 +21,6 @@ def sum(a, b):
 c = sum(a, b)
 print("The value of c is  ", c)
 
+d = mul(a, b)
+
+print("The value of d is  ", d)
